@@ -1,0 +1,144 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Ubuntu', sans-serif;
+}
+h3,p{
+  margin: 0;
+}
+button:hover{
+  opacity:0.8;
+}
+/* nav{
+  background-color: rgb(224, 224, 224);
+} */
+li:hover{
+  border-bottom: 1px solid white;
+}
+.footer-a{
+  text-decoration: none;
+}
+.footer-a:hover{
+  text-decoration: underline;
+}
+
+/* ----------------------------------------NAVBAR SECTION------------------------------------------- */
+.nav-h1{
+  color: #b7a236;
+  font-size: 60px;
+}
+#navbar-p{
+  font-size: 20px;
+}
+.btn-carousel{
+  background-color: #b7a236;
+  width: 200px;
+  height: 40px;
+}
+#logo{
+  width: 70px;
+}
+#section-nav{
+   background-image: linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)) , url(main-bg.svg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 650px;
+}
+#section1-h1{
+  font-size: 45px;
+}
+#section1-h2{
+  color: #b7a236;
+}
+
+/* ----------------------------------------SECTION 2------------------------------------------- */
+.service-img{
+  width: 200px;
+}
+.service-img:hover{
+  opacity: 0.8;
+  cursor: pointer;
+}
+.service-div{
+  width: 300px;
+}
+.bullet-points{
+  width: 30px;
+}
+#service4-img{
+  width: 340px;
+}
+#service4-div{
+  height: 350px;
+}
+
+/* ----------------------------------------SECTION 2------------------------------------------- */
+#section2-maindiv{
+  width: 300px;
+}
+
+/* ----------------------------------------SECTION 3------------------------------------------- */
+.section3-div{
+  width: 250px;
+  border: 2px solid #b7a236;
+}
+#section3{
+  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.95)) , url(bg1.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+/* ----------------------------------------SECTION 4------------------------------------------- */
+#section4-heading1 ,#section4-heading2{
+  color: #b7a236;
+}
+#section4-div1{
+  width: 300px;
+}
+.btn-form{
+  background-color:#b7a236 ;
+  height: 40px;
+}
+#section4{
+  background-color: black;
+}
+
+/* ----------------------------------------SECTION 5------------------------------------------- */
+#section5{
+  background-color: #232F3E;
+}
+#btn-back-to-top{
+  background-color: #324358;
+}
+
+
+/* ----------------------------------------SECTION 6------------------------------------------- */
+.jurident-logo{
+  width: 60px;
+}
+#section6-div{
+  width: 600px;
+}
+#btn-read-more{
+  width: 200px;
+  height: 40px;
+  background-color: #b7a236;
+}
+
+.report-logo{
+  width: 150px;
+}
+.progress{
+  width: 200px;
+}
+.card-temp{
+  width: 300px;
+}
+.img-s{
+  width: 200px;
+}
+
+.nav-report h5:hover{
+
+  opacity: 0.6;
+}
